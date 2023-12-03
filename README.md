@@ -3,8 +3,6 @@ A simple and responsive registration form developed with HTML, CSS, Node.js, and
 
 🚀 Key Features:
 
-Responsive Design
-
-Form Validation
-
-MongoDB Integration
+Responsive Design,
+Form Validation,
+MongoDB Integration.
